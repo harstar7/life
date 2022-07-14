@@ -1,0 +1,147 @@
+{
+    "basics": {
+        "name": "Harshit singh",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/109157170?s=400&v=4",
+        "email": "2021kuec2060@iiitkota.ac.in",
+        "phone": "",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and communication.",
+        "location": {
+            "address": "Lucknow",
+            "postalCode": "226002",
+            "city": "Lucknow",
+            "countryCode": " India",
+            "region": "Uttar pradesh"
+        },
+        "profiles": [
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": "harstar7",
+                "url": "https://www.github.com/harstar7"
+            },
+            {
+                "network": "linkedin",
+                "username": "Harshit Singh",
+                "url": "www.linkedin.com/in/harshit-singh-24b142245"
+            },
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Electronics and Communication"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "",
+            "level": "",
+            "keywords": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                "Guitar"
+            ]
+        },
+        {
+            "name": "",
+            "": [
+                "",
+                ""
+            ]
+        }
+    ]
+}
